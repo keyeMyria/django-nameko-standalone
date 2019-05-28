@@ -29,7 +29,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Development Status :: 3 - Alpha",
-        "Framework :: Django :: 2.1",
+        "Framework :: Django :: 2.2",
         "Topic :: Software Development :: Libraries",
     ],
 )
